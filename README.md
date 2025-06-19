@@ -9,7 +9,7 @@ this is third repository that makes me very happy
 </p>
 
 
-## 📫 Connect With Me
+## 📫 Connect With 
 
 <p align="center">
   <a href="mailto:mrwajahatalimir@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
