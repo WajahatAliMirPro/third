@@ -1,5 +1,5 @@
 # third
-this is third repository that makes me very happy 
+this is third repository that makes me very excieted
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👨‍💻%20Wajahat%20Ali%20Mir%20%7C%20Python%20third%20repository&width=800&height=200" alt="Profile Banner" />
 </p>
