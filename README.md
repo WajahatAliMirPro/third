@@ -1,25 +1,30 @@
-# third
-this is third repository that makes me very excieted
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👨‍💻%20Wajahat%20Ali%20Mir%20%7C%20Python%20third%20repository&width=800&height=200" alt="Profile Banner" />
-</p>
+# New Project
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&vCenter=true&width=700&lines=Welcome+to+my+repository!;Python+Developer+%7C+Automation+Enthusiast;Open+Source+%7C+Building+with+Purpose" alt="Typing SVG" />
-</p>
+*Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/wajahat-ali-mirs-projects/v0-new-project-0xwlwcxwlzm)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/0XwLWcXwlzM)
 
-## 📫 Connect With 
+## Overview
 
-<p align="center">
-  <a href="mailto:mrwajahatalimir@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/wajahatalimirpro"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/923700882006"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.pinterest.com/mrwajahatalimir"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
-  <a href="https://github.com/WajahatAliMirPro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
 
+## Deployment
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1800&color=F7C948&center=true&vCenter=true&width=800&height=55&lines=Not+just+coding.+Building+with+purpose." alt="Animated Quote" />
-</p>
+Your project is live at:
+
+**[https://vercel.com/wajahat-ali-mirs-projects/v0-new-project-0xwlwcxwlzm](https://vercel.com/wajahat-ali-mirs-projects/v0-new-project-0xwlwcxwlzm)**
+
+## Build your app
+
+Continue building your app on:
+
+**[https://v0.dev/chat/projects/0XwLWcXwlzM](https://v0.dev/chat/projects/0XwLWcXwlzM)**
+
+## How It Works
+
+1. Create and modify your project using [v0.dev](https://v0.dev)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
